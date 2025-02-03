@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Threat Hunting and Advance Security Monitoring         | <a href="https://www.linkedin.com/posts/harsshitta-bhati_cybersecurity-threathunting-cloudsecurity-activity-7291111702178246656-pRX_?utm_source=share&utm_medium=member_desktop">Detection Lab</a>|
+| Threat Hunting and Advance Security Monitoring         | <a href="https://github.com/harsshittabhati/Threat-Hunting-and-Advance-Security-Monitoring">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
