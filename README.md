@@ -53,4 +53,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Threat Hunting and Advance Security Monitoring in Azure
+- <a href="https://github.com/harsshittabhati/Threat-Hunting-and-Advance-Security-Monitoring">Threat Hunting and Advance Security Monitoring</a>
