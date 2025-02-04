@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Threat Hunting and Advance Security Monitoring         | <a href="https://github.com/harsshittabhati/Threat-Hunting-and-Advance-Security-Monitoring">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
+| Phishing Detector Web Extension | <a href="https://github.com/harsshittabhati/Phishing-Detector-Web-Extension">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
