@@ -1,3 +1,28 @@
+# Hi there, I'm Harshita Bhati 👋
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsshitta-bhati)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/harsshitta)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?&style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Harshita_1030)
+
+---
+
+## About Me
+
+I'm a **BTech Cybersecurity student** with a dual focus on **security operations** and **backend development**. I build secure, scalable systems with Java Spring Boot while keeping a sharp eye on the defensive security landscape — from SOC analysis and threat detection to cloud security and incident response.
+
+> *"Security is not a product, but a process — and I build both."*
+
+---
+
+## 🔀 What I Do
+
+| 🛡️ Security Side | | 💻 Development Side |
+|---|:---:|---|
+| SOC Analysis & Monitoring | ←→ | Java Spring Boot APIs |
+| Threat Detection & SIEM | ←→ | RESTful Backend Services |
+| Incident Response | ←→ | Secure Coding Practices |
+| Cloud Security (AWS / Azure / GCP) | ←→ | Cloud-Native App Deployment |
+| Security Automation (SOAR) | ←→ | CI/CD & DevSecOps Pipelines |
 ---
 
 ## 🛡️ Security Skills
