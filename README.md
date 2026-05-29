@@ -1,4 +1,4 @@
-# Hi there, I'm Harshita Bhati 👋
+# Hi there, I'm Harshita Bhati
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsshitta-bhati)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/harsshitta)
@@ -32,9 +32,6 @@ I'm a **BTech Cybersecurity student** with a dual focus on **security operations
 | Threat Hunting & Advanced Security Monitoring | [Detection Lab](https://github.com/harsshittabhati/Threat-Hunting-and-Advance-Security-Monitoring) |
 | Phishing Detector Web Extension | [Phishing Detector](https://github.com/harsshittabhati/Phishing-Detector-Web-Extension) |
 | Cloud Attack Simulation & Detection | [Cloud Attack Framework](https://github.com/harsshittabhati/cloud-attack-framework) |
-| Security Automation with Shuffle SOAR | SOC Automation Lab |
-| Incident Response Planning & Execution | SOC Automation Lab |
-| Case Management with TheHive | SOC Automation Lab |
 
 ---
 
