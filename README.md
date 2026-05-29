@@ -116,9 +116,10 @@ I'm a **BTech Cybersecurity student** with a dual focus on **security operations
 | Project | Description | Tech |
 |---|---|---|
 | [Threat Hunting & Advanced Security Monitoring](https://github.com/harsshittabhati/Threat-Hunting-and-Advance-Security-Monitoring) | Cloud monitoring environment integrating Wazuh, Suricata, LimaCharlie, Tines, Splunk and Slack to detect and visualize threats with automated response workflows | Wazuh · Suricata · Splunk · Tines · Azure |
-| [Project Citadel — Enterprise Threat Detection Platform](https://github.com/harsshittabhati/cloud-attack-framework) | XDR-style detection ecosystem unifying endpoint, network and identity telemetry with a behavioral analytics layer, automated enrichment, and correlated investigation workflows | Wazuh · ELK · TheHive · Cortex · Python · Kubernetes |
+| [Project Citadel — Enterprise Threat Detection Platform](https://github.com/harsshittabhati/Horizon) | XDR-style detection ecosystem unifying endpoint, network and identity telemetry with a behavioral analytics layer, automated enrichment, and correlated investigation workflows | Wazuh · ELK · TheHive · Cortex · Python · Kubernetes |
 | [Phishing Detector Web Extension](https://github.com/harsshittabhati/Phishing-Detector-Web-Extension) | Browser extension that analyzes visited sites for phishing threats in real-time | Python |
 | [Project Leviathan](https://github.com/harsshittabhati/Project-Leviathan) | Security-focused C# project | C# |
+| [Cloud Attack Framework](https://github.com/harsshittabhati/cloud-attack-framework) | Cloud attack simulation with PDF dropper, C2 channel, AWS abuse, and detection | Python |
 
 ---
 
