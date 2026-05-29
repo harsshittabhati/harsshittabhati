@@ -1,56 +1,100 @@
-# Hello, I'm HARSHITA BHATI
-<a href="https://www.linkedin.com/in/harsshitta-bhati"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+---
 
-I’m Harshita, a BTech Cyber Security student passionate about threat detection, security automation, and AI-driven cybersecurity solutions.
+## 🛡️ Security Skills
 
-## Objective
+| Skill | Project |
+|---|---|
+| Threat Hunting & Advanced Security Monitoring | [Detection Lab](https://github.com/harsshittabhati/Threat-Hunting-and-Advance-Security-Monitoring) |
+| Phishing Detector Web Extension | [Phishing Detector](https://github.com/harsshittabhati/Phishing-Detector-Web-Extension) |
+| Cloud Attack Simulation & Detection | [Cloud Attack Framework](https://github.com/harsshittabhati/cloud-attack-framework) |
+| Security Automation with Shuffle SOAR | SOC Automation Lab |
+| Incident Response Planning & Execution | SOC Automation Lab |
+| Case Management with TheHive | SOC Automation Lab |
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+---
 
-## Skills
+## 💻 Development Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Threat Hunting and Advance Security Monitoring         | <a href="https://github.com/harsshittabhati/Threat-Hunting-and-Advance-Security-Monitoring">Detection Lab</a>|
-| Phishing Detector Web Extension | <a href="https://github.com/harsshittabhati/Phishing-Detector-Web-Extension">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Skill | Stack |
+|---|---|
+| REST API Development | Java · Spring Boot · Spring MVC |
+| Data Persistence | Spring Data JPA · Hibernate · MySQL / PostgreSQL |
+| Security Integration | Spring Security · JWT · OAuth2 |
+| Build & Deployment | Maven · Docker · GitHub Actions |
+| Testing | JUnit · Mockito |
 
-## Tools
+---
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## 🧰 Tools & Technologies
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### Security
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+**Network Analysis**
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white)
+![Zeek](https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white)
 
-### Cloud
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
-</div>
+**Endpoint**
+![Microsoft Defender](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white)
+![Velociraptor](https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white)
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Understanding_Google_Cloud_Security_and_Operation-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/-Introduction_to_Information_Security-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Introduction_to_Dark_Web%2C_Anonymity%2C_and_Cryptocurrency-4B8BBE?&style=for-the-badge&logo=Bitcoin&logoColor=white" />
-</div>
+**SIEM**
+![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white)
 
-## Projects
-- <a href="https://github.com/harsshittabhati/Threat-Hunting-and-Advance-Security-Monitoring">Threat Hunting and Advance Security Monitoring</a>
+**Cloud Security**
+![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon+AWS&logoColor=white)
+
+### Development
+
+**Backend**
+![Java](https://img.shields.io/badge/-Java-ED8B00?&style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?&style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white)
+
+**Database**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=github-actions&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?&style=for-the-badge&logo=apache-maven&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Cloud Attack Framework](https://github.com/harsshittabhati/cloud-attack-framework) | Cloud attack simulation with PDF dropper, C2 channel, AWS abuse, and detection | Python |
+| [Threat Hunting & Advanced Security Monitoring](https://github.com/harsshittabhati/Threat-Hunting-and-Advance-Security-Monitoring) | End-to-end threat detection and monitoring lab | SIEM · ELK |
+| [Phishing Detector Web Extension](https://github.com/harsshittabhati/Phishing-Detector-Web-Extension) | Browser extension that analyzes visited sites for phishing threats in real-time | Python |
+| [Project Leviathan](https://github.com/harsshittabhati/Project-Leviathan) | Security-focused C# project | C# |
+
+---
+
+## 📜 Certifications
+
+[![Google Cloud Security](https://img.shields.io/badge/-Understanding_Google_Cloud_Security_and_Operations-4285F4?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)](https://www.cloudskillsboost.google/)
+[![Microsoft Security](https://img.shields.io/badge/-Introduction_to_Information_Security-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)](https://learn.microsoft.com/)
+[![Dark Web & Crypto](https://img.shields.io/badge/-Introduction_to_Dark_Web,_Anonymity,_and_Crypto-4B8BBE?&style=for-the-badge&logo=Bitcoin&logoColor=white)](https://www.coursera.org/)
+
+---
+
+## 🎯 Current Focus
+
+- Building secure **Java Spring Boot** microservices with proper authentication and authorization
+- Practicing **SOC Tier 1 workflows** through TryHackMe labs and hands-on detection engineering
+- Exploring **DevSecOps** — integrating security checks into CI/CD pipelines
+- Working toward cloud security certifications (AWS / Azure)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsshittabhati&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
