@@ -25,13 +25,6 @@ I'm a **BTech Cybersecurity student** with a dual focus on **security operations
 | Security Automation (SOAR) | ←→ | CI/CD & DevSecOps Pipelines |
 ---
 
-## 🛡️ Security Skills
-
-| Skill | Project |
-|---|---|
-| Threat Hunting & Advanced Security Monitoring | [Detection Lab](https://github.com/harsshittabhati/Threat-Hunting-and-Advance-Security-Monitoring) |
-| Phishing Detector Web Extension | [Phishing Detector](https://github.com/harsshittabhati/Phishing-Detector-Web-Extension) |
-| Cloud Attack Simulation & Detection | [Cloud Attack Framework](https://github.com/harsshittabhati/cloud-attack-framework) |
 
 ---
 
