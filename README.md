@@ -1,6 +1,6 @@
 # Hi there, I'm Harshita Bhati 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsshitta-bhati)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitabhati-cloudsec)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/harsshitta)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?&style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Harshita_1030)
 
